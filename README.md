@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/zhu978985158-blip/zhu978985158-blip/main/assets/workbench.png" alt="Tong 的游戏工作台：游戏 Mod、简体中文汉化与制作工具" width="100%">
 </p>
 
-### 你好，我是 Tong。
-
-做游戏 Mod，也做让游戏更好用的中文化与工具。把想玩的改动做出来，把构建、校验和恢复的过程留下来。
+把我喜欢的东西改成，改成顺手的东西
 
 ---
 
